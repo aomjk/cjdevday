@@ -7,9 +7,8 @@ https://codelabs.developers.google.com/devsite/codelabs/build-agents-with-adk-fo
 
 
 <br><br>
-<h1>A2A, ADK, MCP</h1><br><br>
+<h1>A2A, ADK, MCP</h1>
 <br>
-
 https://codelabs.developers.google.com/instavibe-adk-multi-agents/instructions#2
 
 <br>
