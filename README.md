@@ -1,13 +1,13 @@
 # cjdevday
 
 
-<h1>ADK Lab</h1>
+<h1>ADK Lab - Morning's Lab</h1>
 
 https://codelabs.developers.google.com/devsite/codelabs/build-agents-with-adk-foundation#0
 
 
 <br><br>
-<h1>A2A, ADK, MCP</h1>
+<h1>A2A, ADK, MCP - Afternoon's Lab</h1>
 
 https://codelabs.developers.google.com/instavibe-adk-multi-agents/instructions#2
 
