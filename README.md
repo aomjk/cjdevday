@@ -8,10 +8,10 @@ https://codelabs.developers.google.com/devsite/codelabs/build-agents-with-adk-fo
 
 <br><br>
 <h1>A2A, ADK, MCP</h1>
-<br>
+
 https://codelabs.developers.google.com/instavibe-adk-multi-agents/instructions#2
 
-<br>
+<br><br>
 gcloud builds submit \
 ... \
 --default-buckets-behavior=REGIONAL_USER_OWNED_BUCKET
